@@ -14,9 +14,9 @@ header:
  subtitle: "by Caleb Sieker"
 footer:
  name: "Hey there, my name is Caleb"
- bio: "I am origionaly from washington state and I am currently studying nursing in Missouri."
+ bio: "I'm originally from Washington State, currently studying nursing in Missouri, and experimenting with photography in my free time."
  github: ""
-web_design: "AJ"
+web_design: "CTS"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
